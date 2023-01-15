@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "rebirth",
+    "name": "Rebirth Hack",
+    "description": "By MadCat",
+    "version": "1.0.0.0",
+    "mcversion": "1.12.2",
+    "logoFile": "cat.png",
+    "url": "NO url",
+    "updateUrl": "",
+    "authorList": [
+      "MadCat"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

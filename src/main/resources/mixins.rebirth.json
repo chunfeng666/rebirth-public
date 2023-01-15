@@ -1,0 +1,29 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.madcat.rebirth.mixin.mixins",
+  "refmap": "mixins.rebirth.refmap.json",
+  "mixins": [
+    "MixinBlockLiquid",
+    "MixinEntityPlayer",
+    "MixinEntityRenderer",
+    "MixinItemRenderer",
+    "MixinFontRenderer",
+    "MixinGuiScreen",
+    "MixinGuiNewChat",
+    "MixinMinecraft",
+    "MixinModelPlayer",
+    "MixinEntityPlayerSP",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinLocaleFont",
+    "MixinWorld",
+    "MixinEntity",
+    "MixinMovementInputFromOptions",
+    "MixinLayerBipedArmor",
+    "MixinTileEntityEnchantmentTableRenderer",
+    "accessors.IC00Handshake",
+    "accessors.IServerAddress"
+  ]
+
+}
